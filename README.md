@@ -1,2 +1,3 @@
 # z390-i-aorus-pro-wifi-mini-itx
 Hack into sh...
+I will upload USBmap kext for this unit soon.
